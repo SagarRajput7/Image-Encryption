@@ -7,15 +7,6 @@ performed
 
 1.Histogram Analysis
 
-Original:
-
-![image](https://user-images.githubusercontent.com/43861831/126435778-8fca8adf-fb6b-4267-8add-8b035f738f4a.png)
-
-
-Encrypted:
-![image](https://user-images.githubusercontent.com/43861831/126435754-2a13c05c-07f4-40a2-b8fa-602d1908613d.png)
-
-
 2.Information Entropy :
 
   Original =  7.750197479743165
