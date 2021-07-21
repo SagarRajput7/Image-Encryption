@@ -9,8 +9,9 @@ performed
 
 2.Information Entropy :
 
-  Original =  7.750197479743165
-  Encrypted =  7.999732985976435
+    Original =  7.750197479743165
+    
+    Encrypted =  7.999732985976435
   
 3.mse =  105.49950408935547
 
