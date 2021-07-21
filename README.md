@@ -4,17 +4,23 @@ Map function.
 
 • Various security analysis
 performed
+
 1.Histogram Analysis
+
 Original:
 ![image](https://user-images.githubusercontent.com/43861831/126434992-b8e99514-35ca-4db8-834a-720b127e0b2b.png)
 
 Encrypted:
 ![image](https://user-images.githubusercontent.com/43861831/126435034-7aa0f019-853e-4cfe-bb8e-c37465530f6f.png)
 
+
 2.Information Entropy :
+
   Original =  7.750197479743165
   Encrypted =  7.999732985976435
+  
 3.mse =  105.49950408935547
+
 4.PSNR value is 27.93229512428496 dB
 
 Sample Image :
