@@ -8,10 +8,12 @@ performed
 1.Histogram Analysis
 
 Original:
-![image](https://user-images.githubusercontent.com/43861831/126434992-b8e99514-35ca-4db8-834a-720b127e0b2b.png)
+
+![image](https://user-images.githubusercontent.com/43861831/126435778-8fca8adf-fb6b-4267-8add-8b035f738f4a.png)
+
 
 Encrypted:
-![image](https://user-images.githubusercontent.com/43861831/126435034-7aa0f019-853e-4cfe-bb8e-c37465530f6f.png)
+![image](https://user-images.githubusercontent.com/43861831/126435754-2a13c05c-07f4-40a2-b8fa-602d1908613d.png)
 
 
 2.Information Entropy :
