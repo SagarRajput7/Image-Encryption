@@ -5,17 +5,17 @@ Map function.
 • Various security analysis
 performed
 
-1.Histogram Analysis
+    1. Histogram Analysis
 
-2.Information Entropy :
+    2. Information Entropy :
 
-    Original =  7.750197479743165
-    
-    Encrypted =  7.999732985976435
-  
-3.mse =  105.49950408935547
+        Original =  7.750197479743165
 
-4.PSNR value is 27.93229512428496 dB
+        Encrypted =  7.999732985976435
+
+    3. MSE =  105.49950408935547
+
+    4. PSNR value is 27.93229512428496 dB
 
 Sample Image :
 
