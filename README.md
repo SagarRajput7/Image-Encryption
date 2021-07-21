@@ -18,7 +18,7 @@ performed
     4. PSNR value is 27.93229512428496 dB
 
     Sample Image :
-        ![image](https://user-images.githubusercontent.com/43861831/122173950-edd1be80-ce9f-11eb-972e-75469eeea573.png)
+        ![image](https://user-images.githubusercontent.com/43861831/126436512-8bc9013f-3ad9-40eb-87aa-441ee4554c59.png)
 
     Result :
-        ![image](https://user-images.githubusercontent.com/43861831/122174046-04781580-cea0-11eb-821a-e2ed63268646.png)
+        ![image](https://user-images.githubusercontent.com/43861831/126436541-417780c9-ab49-4db4-ac09-9991dd176a7c.png)
