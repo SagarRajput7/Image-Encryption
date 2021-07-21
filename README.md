@@ -19,8 +19,8 @@ performed
 
 Sample Image :
 
-    ![image](https://user-images.githubusercontent.com/43861831/126436512-8bc9013f-3ad9-40eb-87aa-441ee4554c59.png)
+   ![image](https://user-images.githubusercontent.com/43861831/126436512-8bc9013f-3ad9-40eb-87aa-441ee4554c59.png)
 
 Result :
 
-    ![image](https://user-images.githubusercontent.com/43861831/126436541-417780c9-ab49-4db4-ac09-9991dd176a7c.png)
+   ![image](https://user-images.githubusercontent.com/43861831/126436541-417780c9-ab49-4db4-ac09-9991dd176a7c.png)
